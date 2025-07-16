@@ -124,6 +124,16 @@ def userB():
 
 # COMMAND ----------
 
+def critical_section():
+    print("User A working")
+
+# COMMAND ----------
+
+def userA_func():
+    print("User A working")
+
+# COMMAND ----------
+
 # MAGIC %md
 # MAGIC ## Expected Fields 
 # MAGIC
