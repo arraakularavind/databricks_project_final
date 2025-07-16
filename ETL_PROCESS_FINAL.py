@@ -125,8 +125,7 @@ def userB():
 # COMMAND ----------
 
 def critical_section():
-    print("User A working")
-    print("User A")
+    print("User A,B updating working")
 
 # COMMAND ----------
 
