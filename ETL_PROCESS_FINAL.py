@@ -126,6 +126,7 @@ def userB():
 
 def critical_section():
     print("User A working")
+    print("User A")
 
 # COMMAND ----------
 
